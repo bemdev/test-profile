@@ -1,0 +1,23 @@
+.Form {
+    position: relative;
+    max-width: 330px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 12px 24px;
+    background: #fff;
+    border-radius: 4px;
+    display: grid;
+    gap: 14px;
+    box-shadow: 3px 3px 5px #999;
+}
+
+.Form .Form-control {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 24px;
+}
+
+.Form .Form-control .Link {
+    height: 20px;
+}

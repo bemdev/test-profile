@@ -1,0 +1,13 @@
+.People {
+    background: #eee;
+    width: 100vw;
+    height: 100vh;
+}
+
+.People-content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    padding: 10px;
+    justify-content: center;
+}
